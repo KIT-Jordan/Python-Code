@@ -12,7 +12,8 @@ print(f"a != b : {a != b}")  # True because 5 is not equal to 3
 print(f"a < b : {a < b}")    # False because 5 is not less than 3
 
 # Check if a is less than or equal to b (<=)
-print(f"a <= b : {a <= b}")  # False because 5 is not less than or equal to 3
+print
+(f"a <= b : {a <= b}")  # False because 5 is not less than or equal to 3
 
 # Check if a is greater than b (>)
 print(f"a > b : {a > b}")    # True because 5 is greater than 3
